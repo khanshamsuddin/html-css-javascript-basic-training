@@ -1,0 +1,10 @@
+23/01/2023
+
+01 Favicon Tag
+02 Description list
+03 class attribute in javascript
+04 Id attribute in javascript
+
+24/01/2023
+
+01 Semantics

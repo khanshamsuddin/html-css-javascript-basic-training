@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../javascript/01-introduction-variable.js">
+
+</head>
+
+<!--
+   JavaScript has 8 Datatypes
+
+            1. String
+            2. Number
+            3. Bigint
+            4. Boolean
+            5. Undefined
+            6. Null
+            7. Symbol
+            8. Object
+
+The Object Datatype
+
+The object data type can contain:
+
+            1. An object
+            2. An array
+            3. A date  
+
+-->
+
+<body>
+    <h1 id="p">Tiger</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="../javascript/01-introduction-variable.js"></script>
+</body>
+
+</html>
